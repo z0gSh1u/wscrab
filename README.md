@@ -55,6 +55,10 @@ wscrab -c wss://websocket-echo.com --slash
 cargo test
 ```
 
+## License
+
+MIT License. See [LICENSE](./LICENSE).
+
 ## Learn from the code
 
 This is a simple but complete async Rust program. You can learn Rust fundamentals and engineering practices from it. See the [Rust Learning Guide](./the-rust-inside.md).
